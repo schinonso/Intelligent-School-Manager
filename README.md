@@ -7,9 +7,11 @@
 <li>The Students platform</li>
 <li>The Discussion platform</li>
 </ul>
-<p>You can access the Teachers Platform by using the following username and password</p>
+<p>You can access the Teachers/Administrator Platform by using the following username and password</p>
 <ul>
-  <li>Username ------> cs01</li>
+  <li>Username ------> cs01 [usertype = admin]</li>
+  <li>Password ------> donack</li>
+  <li>Username ------> johnson1 [usertype = teacher]</li>
   <li>Password ------> donack</li>
   <li><a href="https://nigerbuyers.com.ng/edu/isms/teacher">The Teachers Platform, click here to access it</a></li>
  </ul>
