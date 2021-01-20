@@ -7,3 +7,16 @@
 <li>The Students platform</li>
 <li>The Discussion platform</li>
 </ul>
+<p>You can access the Teachers Platform by using the following username and password</p>
+<ul>
+  <li>Username ------> cs01</li>
+  <li>Password ------> donack</li>
+  <li><a href="https://nigerbuyers.com.ng/edu/isms/teacher">The Teachers Platform, click here to access it</a></li>
+ </ul>
+ <p>You can access the students Platform by using the following username and password</p>
+ <ul>
+  <li>Username -------> FPT/CS/002</li>
+  <li>Password -------> donack</li>
+  <li><a href="https://nigerbuyers.com.ng/edu/isms/student">The Teachers Platform, click here to access it</a></li>
+  </ul>
+  
